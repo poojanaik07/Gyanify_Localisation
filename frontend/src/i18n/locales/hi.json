@@ -1,0 +1,240 @@
+{
+  "dashboard": {
+    "title": "छात्र डैशबोर्ड",
+    "subtitle": "अपनी सीख और प्रगति को ट्रैक करें",
+
+    "continueLearning": "सीखना जारी रखें",
+    "askDoubt": "सवाल पूछें",
+
+    "coursesEnrolled": "नामांकित कोर्स",
+    "completedLectures": "पूर्ण किए गए व्याख्यान",
+    "certificatesEarned": "प्राप्त प्रमाणपत्र",
+    "pendingAssignments": "लंबित असाइनमेंट",
+
+    "courseProgress": "कोर्स प्रगति",
+    "continueWhereLeft": "जहां छोड़ा था वहां से जारी रखें"
+  },
+  "tabs": {
+    "home": "होम",
+    "learn": "सीखें"
+  },
+  
+  "home": {
+    "popularCourses": "लोकप्रिय पाठ्यक्रम",
+
+    "popular": {
+      "masterPhoto": "डिजिटल फोटोग्राफी में महारत",
+      "creativeWriting": "क्रिएटिव राइटिंग आवश्यकताएँ",
+      "basicComputer": "बेसिक कंप्यूटर स्किल्स",
+      "foodProduction": "फूड प्रोडक्शन / कुकिंग"
+    },
+
+    "topCategories": "शीर्ष श्रेणियाँ",
+
+    "categories": {
+      "programming": "प्रोग्रामिंग",
+      "design": "डिज़ाइन",
+      "business": "व्यवसाय",
+      "photography": "फोटोग्राफी",
+      "marketing": "मार्केटिंग",
+      "datascience": "डेटा साइंस"
+    },
+
+    "recommended": "आपके लिए अनुशंसित",
+
+    "recommend": {
+      "photoClass": "डिजिटल फोटोग्राफी मास्टरक्लास",
+      "farming": "आधुनिक खेती और कृषि की मूल बातें",
+      "cooking": "शुरुआती खाना पकाने और रसोई कौशल",
+      "electrician": "इलेक्ट्रीशियन बेसिक्स: वायरिंग और सुरक्षा"
+    },
+
+    "beginner": "शुरुआती",
+
+    "continueLearning": "सीखना जारी रखें",
+
+    "continue": {
+      "python": "पायथन बेसिक्स",
+      "aiml": "एआई/एमएल रोडमैप"
+    },
+
+    "completed": "पूरा हुआ",
+
+    "trending": "ट्रेंडिंग पाठ्यक्रम",
+
+    "trendingNames": {
+      "react": "रिएक्ट नेटिव बूटकैम्प",
+      "fullstack": "फुल स्टैक रोडमैप",
+      "cyber": "साइबरसिक्योरिटी बेसिक्स",
+      "chatgpt": "ChatGPT मास्टरी"
+    }
+  },
+  "learn": {
+    "search": "कोर्स खोजें...",
+    "browseCourses": "कोर्स ब्राउज़ करें",
+
+    "categories": {
+      "all": "सभी"
+    },
+
+    "by": "द्वारा",
+    "lectures": "लेक्चर",
+    "langAvailable": "उपलब्ध भाषाएँ:",
+    "enrollNow": "नामांकन करें",
+
+    "tags": {
+      "python": "पायथन",
+      "beginner": "शुरुआती",
+      "english": "अंग्रेज़ी",
+      "backend": "बैकएंड",
+      "math": "गणित"
+    },
+
+    "course1": {
+      "title": "शुरुआती के लिए पायथन बेसिक्स",
+      "desc": "पायथन प्रोग्रामिंग का आसान परिचय।"
+    },
+    "course2": {
+      "title": "बैकएंड के लिए उन्नत फ्लास्क",
+      "desc": "Flask फ्रेमवर्क सीखें और वास्तविक API बनाएं।"
+    },
+    "course3": {
+      "title": "मशीन लर्निंग ज़ीरो टू हीरो",
+      "desc": "एमएल एल्गोरिदम, मॉडल और इंडस्ट्री वर्कफ़्लो सीखें।"
+    }
+  },
+  "header": {
+    "appName": "ज्ञानिफाई",
+    "login": "लॉगिन",
+    "settings": "सेटिंग्स"
+  },
+
+  "login": {
+    "studentPortal": "स्टूडेंट पोर्टल",
+    "accessDashboard": "अपना लर्निंग डैशबोर्ड एक्सेस करें",
+
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+
+    "welcomeBack": "वापसी पर स्वागत है",
+    "continueJourney": "अपनी सीखने की यात्रा जारी रखने के लिए लॉगिन करें",
+
+    "email": "ईमेल",
+    "emailPlaceholder": "student@example.com",
+
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "पासवर्ड दर्ज करें",
+
+    "switchToSignup": "खाता नहीं है? साइन अप पर जाएँ",
+
+    "back": "वापस",
+
+    "errorEnterDetails": "कृपया ईमेल और पासवर्ड दर्ज करें",
+    "errorNoAccount": "कोई खाता नहीं मिला। कृपया साइन अप करें",
+    "errorEmail": "ईमेल पंजीकृत नहीं है",
+    "errorPassword": "गलत पासवर्ड",
+    "errorFailed": "लॉगिन असफल हुआ। पुनः प्रयास करें",
+    "successLogin": "लॉगिन सफल!"
+  },
+  
+  "profile": {
+    "choose_portal": "अपना पोर्टल चुनें",
+    "student_login": "छात्र लॉगिन",
+    "student_subtitle": "कोर्स, प्रगति और रिवॉर्ड्स देखें",
+    "teacher_login": "शिक्षक लॉगिन",
+    "teacher_subtitle": "कक्षाएँ प्रबंधित करें, पाठ अपलोड करें और छात्रों को ट्रैक करें",
+    "footer": "ज्ञानिफ़ाय • हर सीखने वाले को सशक्त बनाना ✨"
+  },
+  
+  "settings": {
+    "title": "सेटिंग्स",
+    "customize_experience": "अपना अनुभव अनुकूलित करें",
+    "adjust_preferences": "दिखावट, भाषा और प्राथमिकताएँ बदलें",
+
+    "appearance": "दिखावट",
+    "dark_mode": "डार्क मोड",
+    "app_language": "एप की भाषा",
+
+    "account": "खाता",
+    "edit_profile": "प्रोफ़ाइल संपादित करें",
+    "change_password": "पासवर्ड बदलें",
+
+    "support": "सहायता",
+    "help_center": "हेल्प सेंटर",
+    "contact_us": "संपर्क करें"
+  },
+  "signup": {
+    "student_portal": "छात्र पोर्टल",
+    "access_dashboard": "अपना शिक्षण डैशबोर्ड एक्सेस करें",
+
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+
+    "create_account_title": "खाता बनाएँ",
+
+    "full_name": "पूरा नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirm_password": "पासवर्ड की पुष्टि करें",
+
+    "state": "राज्य",
+    "city": "शहर",
+    "region": "भारत",
+
+    "create_account_btn": "खाता बनाएँ",
+    "back_to_home": "← होम पर वापस जाएँ",
+
+    "select_state": "राज्य चुनें",
+    "close": "बंद करें",
+
+    "popup_fullname_error": "कृपया अपना पूरा नाम दर्ज करें",
+    "popup_email_required": "ईमेल आवश्यक है",
+    "popup_invalid_email": "अमान्य ईमेल प्रारूप",
+    "popup_password_empty": "पासवर्ड खाली नहीं हो सकता",
+    "popup_password_min": "कम से कम 6 अक्षर आवश्यक हैं",
+    "popup_password_not_match": "पासवर्ड मेल नहीं खाते",
+    "popup_select_state": "राज्य चुनें",
+    "popup_enter_city": "शहर दर्ज करें",
+
+    "popup_account_created": "खाता सफलतापूर्वक बनाया गया!",
+    "popup_error_saving": "विवरण सहेजने में त्रुटि"
+  },
+  "ask_doubt": {
+    "title": "अपने सवाल पूछें",
+    "subtitle": "कोई प्रश्न है? यहाँ पूछें, हमारे शिक्षक आपकी मदद करेंगे!"
+  },
+
+  "form": {
+    "select_course": "कोर्स चुनें",
+    "choose_course": "कोर्स चुनें",
+    "select_lecture": "लेक्चर चुनें",
+    "choose_lecture": "लेक्चर चुनें",
+    "topic": "टॉपिक",
+    "topic_placeholder": "उदाहरण: वेरिएबल्स",
+    "your_question": "आपका प्रश्न",
+    "question_placeholder": "अपनी समस्या यहाँ लिखें...",
+    "attach_image": "+ इमेज जोड़ें",
+    "submit_doubt": "सवाल सबमिट करें"
+  },
+
+  "my_doubts": {
+    "title": "मेरे सवाल"
+  },
+
+  "doubt_card": {
+    "sample_title": "वेरिएबल्स और डेटा टाइप्स",
+    "sample_sub": "प्रोग्रामिंग परिचय • लेक्चर 1.2",
+    "question_label": "प्रश्न:",
+    "sample_question": "क्या आप let और const में फर्क समझा सकते हैं?",
+    "answer_label": "शिक्षक का उत्तर:",
+    "sample_answer": "let में री-असाइनमेंट हो सकता है, const में नहीं।"
+  },
+
+  "symbols": {
+    "expand": "▼",
+    "collapse": "▲"
+  }
+
+
+
+}

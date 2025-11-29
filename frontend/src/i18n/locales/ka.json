@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "title": "ವಿದ್ಯಾರ್ಥಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "subtitle": "ನಿಮ್ಮ ಕಲಿಕೆಯ ಮತ್ತು ಪ್ರಗತಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
+
+    "continueLearning": "ಕಲಿಕೆಯನ್ನು ಮುಂದುವರಿಸಿ",
+    "askDoubt": "ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿ",
+
+    "coursesEnrolled": "ನೋಂದಾಯಿಸಿದ ಕೋರ್ಸ್‌ಗಳು",
+    "completedLectures": "ಪೂರ್ಣಗೊಂಡ ಉಪನ್ಯಾಸಗಳು",
+    "certificatesEarned": "ಪಡೆಯಲಾದ ಪ್ರಮಾಣಪತ್ರಗಳು",
+    "pendingAssignments": "ಬಾಕಿ ಇರುವ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು",
+
+    "courseProgress": "ಕೋರ್ಸ್ ಪ್ರಗತಿ",
+    "continueWhereLeft": "ನೀವು ಬಿಡಿಸಿದ ಜಾಗದಿಂದ ಮುಂದುವರಿಸಿ"
+  }
+}

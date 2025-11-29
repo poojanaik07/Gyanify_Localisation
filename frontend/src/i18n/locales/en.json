@@ -1,0 +1,237 @@
+{
+  "dashboard": {
+    "title": "Student Dashboard",
+    "subtitle": "Track your learning and progress",
+
+    "continueLearning": "Continue Learning",
+    "askDoubt": "Ask Doubt",
+
+    "coursesEnrolled": "Courses Enrolled",
+    "completedLectures": "Completed Lectures",
+    "certificatesEarned": "Certificates Earned",
+    "pendingAssignments": "Pending Assignments",
+
+    "courseProgress": "Course Progress",
+    "continueWhereLeft": "Continue where you left off"
+  },
+  "tabs": {
+    "home": "Home",
+    "learn": "Learn"
+  },
+  
+  "home": {
+    "popularCourses": "Popular Courses",
+
+    "popular": {
+      "masterPhoto": "Mastering Digital Photography",
+      "creativeWriting": "Creative Writing Essentials",
+      "basicComputer": "Basic Computer Skills",
+      "foodProduction": "Food Production / Cookings"
+    },
+
+    "topCategories": "Top Categories",
+
+    "categories": {
+      "programming": "Programming",
+      "design": "Design",
+      "business": "Business",
+      "photography": "Photography",
+      "marketing": "Marketing",
+      "datascience": "Data Science"
+    },
+
+    "recommended": "Recommended For You",
+
+    "recommend": {
+      "photoClass": "Digital Photography Masterclass",
+      "farming": "Modern Farming & Agriculture Basics",
+      "cooking": "Beginner Cooking & Kitchen Skills",
+      "electrician": "Electrician Essentials: Wiring & Safety"
+    },
+
+    "beginner": "Beginner",
+
+    "continueLearning": "Continue Learning",
+
+    "continue": {
+      "python": "Python Basics",
+      "aiml": "AI/ML Roadmap"
+    },
+
+    "completed": "completed",
+
+    "trending": "Trending Courses",
+
+    "trendingNames": {
+      "react": "React Native Bootcamp",
+      "fullstack": "Full Stack Roadmap",
+      "cyber": "Cybersecurity Basics",
+      "chatgpt": "ChatGPT Mastery"
+    }
+  },
+  
+  "learn": {
+    "search": "Search courses...",
+    "browseCourses": "Browse Courses",
+
+    "categories": {
+      "all": "All"
+    },
+
+    "by": "By",
+    "lectures": "Lectures",
+    "langAvailable": "Available in",
+    "enrollNow": "Enroll Now",
+
+    "tags": {
+      "python": "Python",
+      "beginner": "Beginner",
+      "english": "English",
+      "backend": "Backend",
+      "math": "Math"
+    },
+
+    "course1": {
+      "title": "Python Basics for Beginners",
+      "desc": "A beginner friendly introduction to Python programming."
+    },
+    "course2": {
+      "title": "Advanced Flask for Backend",
+      "desc": "Master Flask framework and build real-world APIs."
+    },
+    "course3": {
+      "title": "Machine Learning Zero to Hero",
+      "desc": "Learn ML algorithms, models, and real industry workflows."
+    }
+  },
+  "header": {
+    "appName": "Gyanify",
+    "login": "Login",
+    "settings": "Settings"
+  },
+  "login": {
+    "studentPortal": "Student Portal",
+    "accessDashboard": "Access your learning dashboard",
+
+    "login": "Login",
+    "signup": "Sign Up",
+
+    "welcomeBack": "Welcome Back",
+    "continueJourney": "Login to continue your learning journey",
+
+    "email": "Email",
+    "emailPlaceholder": "student@example.com",
+
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+
+    "switchToSignup": "Don’t have an account? Switch to Sign Up",
+
+    "back": "Back",
+
+    "errorEnterDetails": "Please enter email & password",
+    "errorNoAccount": "No account found. Please sign up",
+    "errorEmail": "Email not registered",
+    "errorPassword": "Incorrect password",
+    "errorFailed": "Login failed. Try again",
+    "successLogin": "Login Successful!"
+  },
+  "profile": {
+    "choose_portal": "Choose Your Portal",
+    "student_login": "Student Login",
+    "student_subtitle": "Access courses, progress, rewards",
+    "teacher_login": "Teacher Login",
+    "teacher_subtitle": "Manage classes, upload lessons & track students",
+    "footer": "Gyanify • Empowering Every Learner ✨"
+    },
+
+  "settings": {
+    "title": "Settings",
+    "customize_experience": "Customize your experience",
+    "adjust_preferences": "Adjust appearance, language & preferences",
+
+    "appearance": "Appearance",
+    "dark_mode": "Dark Mode",
+    "app_language": "App Language",
+
+    "account": "Account",
+    "edit_profile": "Edit Profile",
+    "change_password": "Change Password",
+
+    "support": "Support",
+    "help_center": "Help Center",
+    "contact_us": "Contact Us"
+  },
+  "signup": {
+    "student_portal": "Student Portal",
+    "access_dashboard": "Access your learning dashboard",
+
+    "login": "Login",
+    "signup": "Sign Up",
+
+    "create_account_title": "Create Account",
+
+    "full_name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+
+    "state": "State",
+    "city": "City",
+    "region": "India",
+
+    "create_account_btn": "Create Account",
+    "back_to_home": "← Back to Home",
+
+    "select_state": "Select State",
+    "close": "Close",
+
+    "popup_fullname_error": "Please enter your full name",
+    "popup_email_required": "Email is required",
+    "popup_invalid_email": "Invalid email format",
+    "popup_password_empty": "Password cannot be empty",
+    "popup_password_min": "Min 6 characters required",
+    "popup_password_not_match": "Passwords do not match",
+    "popup_select_state": "Select state",
+    "popup_enter_city": "Enter city",
+
+    "popup_account_created": "Account Created Successfully!",
+    "popup_error_saving": "Error saving details"
+  },
+  "ask_doubt": {
+    "title": "Ask Your Doubts",
+    "subtitle": "Have questions? Ask here and our teachers will help you!"
+  },
+
+  "form": {
+    "select_course": "Select Course",
+    "choose_course": "Choose a course",
+    "select_lecture": "Select Lecture",
+    "choose_lecture": "Choose lecture",
+    "topic": "Topic",
+    "topic_placeholder": "e.g., Variables",
+    "your_question": "Your Question",
+    "question_placeholder": "Describe your doubt...",
+    "attach_image": "+ Attach Image",
+    "submit_doubt": "Submit Doubt"
+  },
+
+  "my_doubts": {
+    "title": "My Doubts"
+  },
+
+  "doubt_card": {
+    "sample_title": "Variables and Data Types",
+    "sample_sub": "Introduction to Programming • Lecture 1.2",
+    "question_label": "Question:",
+    "sample_question": "Can you explain the difference between let and const?",
+    "answer_label": "Teacher’s Answer:",
+    "sample_answer": "let allows reassignment, const does not."
+  },
+
+  "symbols": {
+    "expand": "▼",
+    "collapse": "▲"
+  }
+
+}

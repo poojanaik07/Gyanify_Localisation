@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "title": "विद्यार्थी डॅशबोर्ड",
+    "subtitle": "तुमचे शिक्षण आणि प्रगती ट्रॅक करा",
+
+    "continueLearning": "शिकणे सुरू ठेवा",
+    "askDoubt": "प्रश्न विचारा",
+
+    "coursesEnrolled": "नोंदणीकृत अभ्यासक्रम",
+    "completedLectures": "पूर्ण केलेले व्याख्यान",
+    "certificatesEarned": "मिळवलेली प्रमाणपत्रे",
+    "pendingAssignments": "प्रलंबित असाइनमेंट",
+
+    "courseProgress": "अभ्यासक्रम प्रगती",
+    "continueWhereLeft": "जिथे थांबलात तिथून पुढे सुरू करा"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "title": "વિદ્યાર્થી ડેશબોર્ડ",
+    "subtitle": "તમારી શીખવણી અને પ્રગતિ ટ્રેક કરો",
+
+    "continueLearning": "અભ્યાસ ચાલુ રાખો",
+    "askDoubt": "પ્રશ્ન પૂછો",
+
+    "coursesEnrolled": "નોંધાયેલા કોર્સ",
+    "completedLectures": "પૂર્ણ થયેલા વ્યાખ્યાન",
+    "certificatesEarned": "મેળવેલ પ્રમાણપત્રો",
+    "pendingAssignments": "બાકી એસાઇનમેન્ટ",
+
+    "courseProgress": "કોર્સ પ્રગતિ",
+    "continueWhereLeft": "જ્યાં છોડ્યું ત્યાંથી ચાલુ રાખો"
+  }
+}

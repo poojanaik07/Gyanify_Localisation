@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "title": "ਵਿਦਿਆਰਥੀ ਡੈਸ਼ਬੋਰਡ",
+    "subtitle": "ਆਪਣੀ ਸਿੱਖਿਆ ਅਤੇ ਤਰੱਕੀ ਨੂੰ ਟ੍ਰੈਕ ਕਰੋ",
+
+    "continueLearning": "ਸਿੱਖਣਾ ਜਾਰੀ ਰੱਖੋ",
+    "askDoubt": "ਸਵਾਲ ਪੁੱਛੋ",
+
+    "coursesEnrolled": "ਦਾਖਲ ਕੀਤੇ ਕੋਰਸ",
+    "completedLectures": "ਪੂਰੇ ਹੋਏ ਲੈਕਚਰ",
+    "certificatesEarned": "ਪ੍ਰਾਪਤ ਸਰਟੀਫਿਕੇਟ",
+    "pendingAssignments": "ਬਾਕੀ ਅਸਾਈਨਮੈਂਟ",
+
+    "courseProgress": "ਕੋਰਸ ਤਰੱਕੀ",
+    "continueWhereLeft": "ਜਿੱਥੋਂ ਛੱਡਿਆ ਸੀ ਉੱਥੋਂ ਜਾਰੀ ਰੱਖੋ"
+  }
+}

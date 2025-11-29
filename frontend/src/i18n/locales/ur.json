@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "title": "اسٹوڈنٹ ڈیش بورڈ",
+    "subtitle": "اپنی سیکھنے اور پیش رفت کو ٹریک کریں",
+
+    "continueLearning": "سیکھنا جاری رکھیں",
+    "askDoubt": "سوال پوچھیں",
+
+    "coursesEnrolled": "اندراج شدہ کورسز",
+    "completedLectures": "مکمل شدہ لیکچرز",
+    "certificatesEarned": "حاصل کردہ سرٹیفکیٹس",
+    "pendingAssignments": "زیر التواء اسائنمنٹس",
+
+    "courseProgress": "کورس کی پیش رفت",
+    "continueWhereLeft": "جہاں چھوڑا تھا وہیں سے جاری رکھیں"
+  }
+}
